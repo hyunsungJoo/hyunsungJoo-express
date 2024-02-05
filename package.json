@@ -1,0 +1,25 @@
+{
+  "name": "hyunsungjoo-express",
+  "version": "0.1.0",
+  "description": "my js expres server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunsungJoo/hyunsungJoo-express.git"
+  },
+  "keywords": [
+    "js",
+    "hyunsungJoo",
+    "server",
+    "express"
+  ],
+  "author": "hyunsungJoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyunsungJoo/hyunsungJoo-express/issues"
+  },
+  "homepage": "https://github.com/hyunsungJoo/hyunsungJoo-express#readme"
+}
